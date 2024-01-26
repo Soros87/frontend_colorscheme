@@ -34,3 +34,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Key takeaways of this exercise
+
+1. In global.css specify the color variables and their corresponding hexadecimal/rgba values
+2. Next define the colors in your Tailwind CSS configuration file. Assuming you are using a file like tailwind.config.js, you can extend the theme section to include your custom colors.
